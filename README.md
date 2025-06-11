@@ -7,7 +7,7 @@ Welcome to my personal portfolio website built using **HTML, CSS, and Formspree*
 
 ## 🌐 Live Preview
 
-> [Click here to visit my portfolio](https://your-username.github.io/Portfolio)  
+> [Click here to visit my portfolio](https://github.com/akansha-3112/Portfolio.git)  
 *(Update the link after deploying)*
 
 ---
@@ -31,8 +31,8 @@ Welcome to my personal portfolio website built using **HTML, CSS, and Formspree*
 ---
 
 ## 📁 Folder Structure
-/portfolio
-│
+/portfolio<br>
+│<br>
 ├── index.html # Main HTML file<br>
 ├── style.css # All site styling<br>
 ├── photo.jpeg # Profile picture<br>
